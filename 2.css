@@ -26,7 +26,7 @@ body{
 
 .logo{
     color: var(--color-wite);
-    font-size: 50px;
+    font-size: 60px;
 }
 .logo span{
     color: var(--color-primary);
@@ -42,7 +42,7 @@ body{
 .manu_bar ul li a{
     color: var(--color-wite);
     text-decoration: none;
-    font-size: 20px;
+    font-size: 40px;
     transition: all 0.3s;
 }
 
@@ -65,9 +65,8 @@ body{
 }
 p{
     font-size: 24px;
-    color: red;
-    margin-left: 7px;
-    background-color: rgba(184, 199, 136, 0.961);
+    color: rgb(0, 0, 0);
+    margin-left: 12px;
 }
 .mo{
     font-size: 35px;
@@ -101,14 +100,14 @@ button{
     border-radius: 10% / 50%;
 }
 button a{
-    background-color: #ffffff;
+    background-color: #173bda;
     color: #000000;
     text-decoration: none;
     font-size: 25px;
     border-radius: 10px;
 }
 button a:hover{
-    background-color: #83938f;
+    background-color: #13e93a;
     color: aliceblue;
     border: 1px solid rgb(03, 06, 05);
     border-radius: 10% / 50%;
