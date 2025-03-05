@@ -15,7 +15,7 @@ body{
 }
 .manu_bar{
     background-color: var(--color-black);
-    height: 80px;
+    height: 140px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -26,7 +26,7 @@ body{
 
 .logo{
     color: var(--color-wite);
-    font-size: 60px;
+    font-size: 80px;
 }
 .logo span{
     color: var(--color-primary);
@@ -42,7 +42,7 @@ body{
 .manu_bar ul li a{
     color: var(--color-wite);
     text-decoration: none;
-    font-size: 40px;
+    font-size: 60px;
     transition: all 0.3s;
 }
 
@@ -97,20 +97,22 @@ p{
 }
 button{
     background-color: #558ABB;
-    border-radius: 10% / 50%;
+    border-radius: 10px;
+
 }
 button a{
-    background-color: #173bda;
+    background-color: #da177c;
     color: #000000;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 35px;
     border-radius: 10px;
+    width: 240px;
+    justify-content: space-around;
 }
 button a:hover{
     background-color: #13e93a;
     color: aliceblue;
     border: 1px solid rgb(03, 06, 05);
-    border-radius: 10% / 50%;
 }
 h6{
     font-size: 30px;
