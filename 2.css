@@ -94,17 +94,15 @@ h5{
 }
 p{
     margin-bottom: 5px;
-}
-button a{
-    color: #000000;
-    font-size: 65px;
-    height: 40px;
+    margin-left: 14px;
+    margin-bottom: 40px;
 }
 h6{
     font-size: 30px;
     text-decoration: underline;
     color: black;
-    background: linear-gradient(#ea7c0f, #83938f);
+    margin-left: 12x;
+
 }
 h4{
     background-color: #c5a98d;
@@ -113,4 +111,53 @@ h2{
     color: black;
     font-size: 30px;
     text-decoration: underline;
+    margin-left: 12px;
+}
+.box{
+    width: 270px;
+    height: 320px;
+    background-image: url(https://img.freepik.com/free-vector/blue-neural-network-illustration_53876-78755.jpg?ga=GA1.1.1409171880.1736293199&semt=ais_hybrid);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 12px;
+    border: 2px solid rgb(133, 133, 227);
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+.box1{
+    width: 270px;
+    height: 370px;
+    background-image: url(https://img.freepik.com/free-vector/youtube-player-device-with-flat-design_23-2147844065.jpg?ga=GA1.1.1409171880.1736293199&semt=ais_hybrid);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 12px;
+    border: 2px solid rgb(133, 133, 227);
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+.box3{
+    width: 270px;
+    height: 320px;
+    background-image: url(https://img.freepik.com/free-vector/business-growth-concept-with-man-watering-coins_23-2147790270.jpg?ga=GA1.1.1409171880.1736293199&semt=ais_hybrid);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 12px;
+    border: 2px solid rgb(133, 133, 227);
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+.box4{
+    width: 270px;
+    height: 320px;
+    background-image: url(https://img.freepik.com/free-photo/corporate-management-strategy-solution-branding-concept_53876-167088.jpg?ga=GA1.1.1409171880.1736293199&semt=ais_hybrid);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 12px;
+    border: 2px solid rgb(133, 133, 227);
+    margin-bottom: 12px;
+    margin-top: 12px;
+
+}
+h6{
+    margin-left: 12px;
 }
