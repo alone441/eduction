@@ -15,7 +15,7 @@ body{
 }
 .manu_bar{
     background-color: var(--color-black);
-    height: 140px;
+    height: 100px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -109,7 +109,7 @@ h4{
 }
 h2{
     color: black;
-    font-size: 30px;
+    font-size: 20px;
     text-decoration: underline;
     margin-left: 12px;
 }
@@ -126,7 +126,7 @@ h2{
     margin-right: 12px;
 }
 .box1{
-    width: 320px;
+    width: 330px;
     height: 490px;
     background-image: url(https://img.freepik.com/free-vector/youtube-player-device-with-flat-design_23-2147844065.jpg?ga=GA1.1.1409171880.1736293199&semt=ais_hybrid);
     background-repeat: no-repeat;
