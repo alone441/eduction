@@ -114,7 +114,8 @@ h2{
     margin-left: 12px;
 }
 .box{
-    width: 320px;
+    /*
+    width: 320px;*/
     height: 490px;
     background-image: url(https://img.freepik.com/free-vector/blue-neural-network-illustration_53876-78755.jpg?ga=GA1.1.1409171880.1736293199&semt=ais_hybrid);
     background-repeat: no-repeat;
